@@ -123,9 +123,3 @@ temp_db*
 cromwell.out
 cromwell.out.*
 .dev
-.caper_tmp/
-atac/
-caper-db_atac.wdl_ENCSR356KRQ_subsampled.json.data
-caper-db_atac.wdl_ENCSR356KRQ_subsampled.json.lobs
-caper-db_atac.wdl_ENCSR356KRQ_subsampled.json.properties
-caper-db_atac.wdl_ENCSR356KRQ_subsampled.json.script
